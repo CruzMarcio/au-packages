@@ -10,8 +10,8 @@ $packageArgs = @{
 
   softwareName  = 'videostream*'
 
-  checksum      = 'e78df6cd03e7b77150023c658bae73aa779871ac5dd474658ce511a90937f4b7'
-  checksum64    = 'b39ae255ed1d2ccfdc3ab04362322110d53ef2ead6db2272d4c2810604692f3a'
+  checksum      = '8aa1b4ac6f6bd376bf796ac4e93df201a75b2571fcff98dfc2dd6a8092d6435a'
+  checksum64    = '66b364e2a4b04f3c1d33103afdaa1ac36dfb7d0999a6774ade61f2de0feed141'
   checksumType  = 'sha256'
   checksumType64= 'sha256'
 

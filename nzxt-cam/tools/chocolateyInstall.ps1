@@ -4,7 +4,7 @@ $packageArgs = @{
     packageName    = $env:ChocolateyPackageName
     unzipLocation  = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
     fileType       = 'exe'
-    url            = 'https://camwebapp.com/download/cam'
+    url            = 'https://nzxt-app.nzxt.com/NZXT-CAM-Setup.exe'
 
     softwareName   = 'CAM'
 

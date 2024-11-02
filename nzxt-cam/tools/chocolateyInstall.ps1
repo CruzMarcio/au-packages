@@ -4,11 +4,11 @@ $packageArgs = @{
     packageName    = $env:ChocolateyPackageName
     unzipLocation  = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
     fileType       = 'exe'
-    url            = 'https://camwebapp.com/download/cam'
+    url            = 'https://nzxt-app.nzxt.com/NZXT-CAM-Setup.exe'
 
     softwareName   = 'CAM'
 
-    checksum       = '583606fe8e078a9a207c0724aa5cc57c5c620e9831401d5fd1648dd6d08ea6ff'
+    checksum       = '47c83ac3471b06f61aa938f66d26a578fe6996910bb2ecfb825823a8d92cadb7'
     checksumType   = 'sha256'
 
     silentArgs     = "/exelang 1033 /quiet"

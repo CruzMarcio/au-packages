@@ -6,18 +6,18 @@
 		<title>CAM</title>
 		<authors>NZXT</authors>
 		<owners>MarcioC</owners>
-		<licenseUrl>https://camwebapp.com/terms-of-service</licenseUrl>
-		<projectUrl>https://camwebapp.com/</projectUrl>
+		<licenseUrl>https://nzxt.com/legal/terms-of-service</licenseUrl>
+		<projectUrl>https://nzxt.com/software/cam</projectUrl>
 		<iconUrl>https://raw.githubusercontent.com/CruzMarcio/au-packages/master/nzxt-cam/nzxt-cam.png</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>A COMPLETE PC MONITORING SOLUTION
 The days of using multiple programs to monitor and tune your PC are over. CAM is easy-to-use and comprehensive, providing you the essential data you need to keep your PC running optimally. Think of CAM as your PC's best friend.</description>
 		<summary>PC Monitoring</summary>
 		<releaseNotes>https://blog.nzxt.com/cam-changelog/</releaseNotes>
-		<copyright>NZXT 2018. All Rights Reserved.</copyright>
+		<copyright>NZXT 2024. All Rights Reserved.</copyright>
 		<tags>pc monitoring temperature cooler fan watercooler nzxt</tags>
-		<mailingListUrl>https://support.camwebapp.com/</mailingListUrl>
-		<bugTrackerUrl>https://support.camwebapp.com/</bugTrackerUrl>
+		<mailingListUrl>https://support.nzxt.com/hc/en-us/sections/360005303053-NZXT-CAM</mailingListUrl>
+		<bugTrackerUrl>https://support.nzxt.com/hc/en-us/sections/360005303053-NZXT-CAM</bugTrackerUrl>
 		<packageSourceUrl>https://github.com/CruzMarcio/au-packages/tree/master/nzxt-cam</packageSourceUrl>
 		<dependencies>
 			<dependency id="vcredist2015" version="14.0.24215.20170201" />
